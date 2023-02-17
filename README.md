@@ -10,7 +10,7 @@ The bug in the calculator was intecionally created in the division code which no
 
 ![image](https://user-images.githubusercontent.com/125329598/219404538-b0885064-1998-4c0b-ba58-15d62e456f0e.png)
 
-# News
+# News 1.0
 
 After break my head for fell hours, i solved the program run problem.
 
@@ -23,3 +23,12 @@ A friend of mine called Osvaldo who it's a development student too, helped me ab
 As you can se, i used the int 5 and int 2 to run my calculator. then the result of de division was 2. it was made propositaly to i learn how to solve a simple "bug", so, i will looking for how the program can return to me the correct answer which is 2,5
 
 I will be back.
+
+# News 2.0
+
+Trying to resolute the bug in the division, i understand the funcition int just return me  numbers without decimal places... Then i used the funcition "double" instead "int". The program gave me the decimal place 2,0, but the answer that need is 2,5. 
+
+Look down
+![image](https://user-images.githubusercontent.com/125329598/219667282-cbdfa8c8-029f-4ba3-8d93-43e824b89347.png)
+
+Let's see what i'll get...
