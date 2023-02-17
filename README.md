@@ -10,3 +10,16 @@ The bug in the calculator was intecionally created in the division code which no
 
 ![image](https://user-images.githubusercontent.com/125329598/219404538-b0885064-1998-4c0b-ba58-15d62e456f0e.png)
 
+# News
+
+After break my head for fell hours, i solved the program run problem.
+
+![image](https://user-images.githubusercontent.com/125329598/219544294-98041230-4f1c-4707-a28a-6e2554bc4f42.png)
+Now the program it's okay.
+
+A i know english, i read the console and through some intuition i solved the problem about method + int.
+A friend of mine called Osvaldo who it's a development student too, helped me about the } in wrong lines.
+
+As you can se, i used the int 5 and int 2 to run my calculator. then the result of de division was 2. it was made propositaly to i learn how to solve a simple "bug", so, i will looking for how the program can return to me the correct answer which is 2,5
+
+I will be back.
