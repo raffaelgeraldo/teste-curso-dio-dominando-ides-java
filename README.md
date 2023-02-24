@@ -1,5 +1,7 @@
 # README STILL BEING WRITTEN
 
+
+
 Based on my java development studies, which it's not completed, then gona have lot's of mistakes... i learned a class called cat and developed a program to run it. Until now it's everything okay.
 
 Althoulght i was learning how to delelop a calculator with a bug to after learn how to debug it. Unfortunately my code have some mistakes and it's not ok to run showing the debug :/
@@ -32,3 +34,14 @@ Look down
 ![image](https://user-images.githubusercontent.com/125329598/219667282-cbdfa8c8-029f-4ba3-8d93-43e824b89347.png)
 
 Let's see what i'll get...
+
+# News 3.0
+
+After a week studying about java, i understood about the command "double" then i tried to change some lines and o got it.
+
+I changed all commands "int" for "double" then my calculator gimma the correct decimal plates.
+
+![image](https://user-images.githubusercontent.com/125329598/221212680-756b2372-c86b-4725-bc1d-aab81b18edf2.png)
+
+
+##### System.out.println ("FIM")
